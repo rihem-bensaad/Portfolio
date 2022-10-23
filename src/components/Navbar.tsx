@@ -1,7 +1,7 @@
 export default function Navbar() {
     return (
       <nav className="navigation">
-        <h5 className="name">Rihem BEN SAAD</h5>
+        <h4 className="name">Rihem BEN SAAD</h4>
         <div className="navigation-menu">
           <ul>
             <li>

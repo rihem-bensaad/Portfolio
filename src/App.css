@@ -71,10 +71,10 @@
 .fa {
   padding: 5px;
   font-size: 15px;
-  width: 10px;
+  width: 5px;
   text-align: center;
   text-decoration: none;
-  margin: 3px 1px;
+  margin: 5px 3px;
 }
 
 .fa:hover {
@@ -100,3 +100,4 @@
 .name {
   padding: 10%;
 }
+
