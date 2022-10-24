@@ -3,7 +3,7 @@ $breakpoint: 799px;
 $nav-height: 70px;
 $nav-background: #fff;
 $nav-font-color: #0c0c0c;
-$link-hover-color: #f8b500;
+$link-hover-color: #137bdc;
 
 @import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');
 
@@ -29,9 +29,6 @@ body{
   text-transform: uppercase;
   font-size: 1.4em;
   
-  &:hover{
-    
-  }
 
   a,
   a:visited {
