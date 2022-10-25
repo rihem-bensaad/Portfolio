@@ -3,9 +3,8 @@ function Footer(){
     return(
         <div>
             <footer>
-                  <img src="" alt="" />
-            <ul className="footer">
-                
+                <img src="https://lh3.googleusercontent.com/a/ALm5wu0C4R65-Z5VPEdh512FSPv-faX_ns587AZfT9K1LA=s96-c-rg-br100" alt="" />  
+            <ul> 
                 <li>
                     <a href="https://www.linkedin.com/in/rihem-ben-saad/" className='linkedin' target="_blank">
                         <i className='fa fa-linkedin'></i>
@@ -27,9 +26,11 @@ function Footer(){
                     </a>
                 </li>
             </ul>
+          
             <div className="footer-copyright">
                 <p>Copyright @ 2022 All Rights Reserved.</p>
             </div>
+        
     </footer>
         </div>
     );
