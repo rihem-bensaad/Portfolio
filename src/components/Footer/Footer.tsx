@@ -3,6 +3,7 @@ function Footer(){
     return(
         <div>
             <footer>
+                <h1>rech out to me</h1>
                 <img src="https://lh3.googleusercontent.com/a/ALm5wu0C4R65-Z5VPEdh512FSPv-faX_ns587AZfT9K1LA=s96-c-rg-br100" alt="" />  
             <ul> 
                 <li>

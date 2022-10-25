@@ -5,7 +5,7 @@ export default function Navbar() {
       <section className="navigation">
   <div className="nav-container">
     <div className="brand">
-      <a href="#!"> Rihem BEN SAAD</a>
+      <a href="#"> Rihem BEN SAAD</a>
     </div>
     <nav>
   <div className="nav-mobile">

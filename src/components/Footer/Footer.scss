@@ -12,28 +12,6 @@ footer li{
     display: inline-block;
 }
 
-.icons a{
-    background: #25c3dc;
-    color: #2c92da;
-    padding: 14px;
-    font-size: 20px;
-    border-radius: 100%;
-    display: flex;
-}
-.icons a:hover{
-    color: #ffffff;
-    transition: 0.5s;
-}
-
-.menu a{
-    color: #ffffff;
-    text-transform: capitalize;
-}
-.menu a:hover{
-    color: #1184c7;
-    transition: 0.5s;
-}
-
 .footer-copyright{
     background-color:#198dab;
     color: #ffffff;
@@ -49,6 +27,11 @@ footer li{
 img {
     width: 100px;
     height: 100px;
+    }
+
+    h1 {
+        color: #ffffff;
+        text-transform: capitalize;
     }
     
     
