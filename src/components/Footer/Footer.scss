@@ -1,5 +1,5 @@
 footer{
-    background-color: #272727;
+    background-color: #46c8de;
     text-align: center;
     text-transform: uppercase;
     padding-top: 30px;
@@ -13,8 +13,8 @@ footer li{
 }
 
 .icons a{
-    background: #52527a;
-    color: #272727;
+    background: #25c3dc;
+    color: #2c92da;
     padding: 14px;
     font-size: 20px;
     border-radius: 100%;
@@ -30,12 +30,12 @@ footer li{
     text-transform: capitalize;
 }
 .menu a:hover{
-    color: #52527a;
+    color: #1184c7;
     transition: 0.5s;
 }
 
 .footer-copyright{
-    background-color:#52527a;
+    background-color:#198dab;
     color: #ffffff;
     padding: 15px;
     margin-top: 30px;
@@ -45,3 +45,10 @@ footer li{
 .footer-copyright p{
     margin-bottom: 0px;
 }
+
+img {
+    width: 100px;
+    height: 100px;
+    position: left 50px;;
+  }
+  
