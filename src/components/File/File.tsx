@@ -14,10 +14,29 @@ export default function File() {
                 <div className="col">
                     <img src="https://media.istockphoto.com/vectors/teenage-girk-working-on-computer-in-classroom-vector-id1150453750?k=20&m=1150453750&s=612x612&w=0&h=1_UuOCVWdUbtJ09MKzBSXZrK65MmzEZq7rzLSi4WKDU=" alt="" />
                 </div>
+                
             </div>
             <div className="clearfix"></div>
+            <div>
+            <div className="container">
+                <h1 className='doing'>what I do?</h1>
+                <h4>FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK</h4>
+                <div className="col">
+                    <img src="https://cdn.dribbble.com/users/2938327/screenshots/11235947/media/de746b2f5bc84521599b9c68a32bb13e.jpg?compress=1&resize=1000x750&vertical=top" alt="" />
+                </div>
+                <div className="col">
+                
+                </div>
+
+                
             </div>
-    
+        
+            </div>
+            <div className="clearfix"></div>
+
+            </div>
+            
+
 
 
         
