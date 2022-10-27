@@ -4,7 +4,7 @@ function Footer(){
         <div>
             <footer>
                 <h1>rech out to me</h1>
-                <img src="https://lh3.googleusercontent.com/a/ALm5wu0C4R65-Z5VPEdh512FSPv-faX_ns587AZfT9K1LA=s96-c-rg-br100" alt="" />  
+                <img src="https://media-exp1.licdn.com/dms/image/C4E03AQEg4UnUlrBATA/profile-displayphoto-shrink_200_200/0/1639421744515?e=2147483647&v=beta&t=-A6UQ61n1_ETGnMCZbs0A9zVRkgFFF1MeIvWh95WG-U" alt="" />  
             <ul> 
                 <li>
                     <a href="https://www.linkedin.com/in/rihem-ben-saad/" className='linkedin' target="_blank">
