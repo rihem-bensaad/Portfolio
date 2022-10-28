@@ -22,19 +22,18 @@ export default function File() {
                 <h1 className='doing'>what I do?</h1>
                 <h4>FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK</h4>
                 <div className="col">
-                    <img src="https://cdn.dribbble.com/users/2938327/screenshots/11235947/media/de746b2f5bc84521599b9c68a32bb13e.jpg?compress=1&resize=1000x750&vertical=top" alt="" />
+                    <img src="https://scontent.ftun15-1.fna.fbcdn.net/v/t1.6435-9/205496888_3771509479740162_6481703703618261735_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=174925&_nc_ohc=sDiFxYWoE7EAX_QJemn&_nc_ht=scontent.ftun15-1.fna&oh=00_AfDU9cmdt0OjPZbb35twUtP1TnrTzMz5d0dQym8R7Ydyng&oe=63817378" alt="" />
                 </div>
-                <div className="col">
-                
+                <div className="col">  
                 </div>
 
                 
-            </div>
-        
-            </div>
-            <div className="clearfix"></div>
+                </div>
+            
+                </div>
+                <div className="clearfix"></div>
 
-            </div>
+                </div>
             
 
 
