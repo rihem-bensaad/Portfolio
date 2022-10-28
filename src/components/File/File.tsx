@@ -12,7 +12,7 @@ export default function File() {
                 </div>
 
                 <div className="col">
-                    <img src="https://media.istockphoto.com/vectors/teenage-girk-working-on-computer-in-classroom-vector-id1150453750?k=20&m=1150453750&s=612x612&w=0&h=1_UuOCVWdUbtJ09MKzBSXZrK65MmzEZq7rzLSi4WKDU=" alt="" />
+                    <img src="https://pps.whatsapp.net/v/t61.24694-24/300999958_539045894642503_935984859955004619_n.jpg?ccb=11-4&oh=01_AdQweyJhy0greyy7Lk-VyrP-1SfYNCvp9FZNyiz16jPt7w&oe=63694FCE" alt="" />
                 </div>
                 
             </div>
