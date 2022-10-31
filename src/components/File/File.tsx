@@ -33,8 +33,9 @@ export default function File() {
                     <img className="icon" src="https://img.icons8.com/fluency/344/angularjs.png" alt="angular" />
                     <img className="icon" src="https://img.icons8.com/fluency/344/node-js.png" alt="node" />
                     <img className="icon" src="https://img.icons8.com/fluency/344/laravel.png" alt="laravel" />
+                    <img className="icon" src="https://img.icons8.com/color/344/joomla.png" alt="joomla!" />
                     <br />
-                    <img className="icon" src="https://img.icons8.com/color/2x/amazon-web-services.png" alt="" />
+                    <img className="icon" src="https://img.icons8.com/color/2x/amazon-web-services.png" alt="AWS" />
                     <img className="icon" src="https://img.icons8.com/fluency/344/mysql-logo.png" alt="sql" />
                     <img className="icon" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" alt="mongodb" />
                     <img className="icon" src="https://img.icons8.com/color/2x/npm.png" alt="npm" />
@@ -42,7 +43,6 @@ export default function File() {
                     <img className="icon" src="https://img.icons8.com/color/344/bootstrap.png" alt="" />
                     <img className="icon" src="https://img.icons8.com/color/2x/sass.png" alt="sass" />
                     <img className="icon" src="https://img.icons8.com/color/2x/tailwind_css.png" alt="tailwind" />
-                    <img className="icon" src="https://img.icons8.com/color/344/joomla.png" alt="joomla!" />
                 </div>
                 </div>
             
