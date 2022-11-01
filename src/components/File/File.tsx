@@ -49,9 +49,17 @@ export default function File() {
                 </div>
                 <div className="clearfix"></div>
 
-            
                 <h1 className='doing'>Education</h1>
+                <div className="col">
+                    <h3>Sectoral Training Center in Electronics of Sousse</h3>
+                    <h4>Micro computer system maintenance technician</h4>
+                    <h4>2 Years</h4>
+                    <h4> </h4>
+                        <li> Fundamental of Javascript</li>
+                        <li>Frameworks, Libraries, Agile Methodology</li>
+                </div>
                 
+                <div className="col">
                 <div className="col alert">
                     <h3>RBK Rebootkamp</h3>
                     <h4>Full Stack JS Developer</h4>
@@ -60,17 +68,15 @@ export default function File() {
                    
                         <li> Fundamental of Javascript</li>
                         <li>Frameworks, Libraries, Agile Methodology</li>
+                </div>
                     
-                   
                 </div>
                 
                 <div className="clearfix"></div>
+                
                 </div>
                 </div>
             
-
-
-
-        
+   
     )
 }
