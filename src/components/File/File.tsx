@@ -18,7 +18,7 @@ export default function File() {
             </div>
             <div className="clearfix"></div>
             <div>
-            <div className="container">
+            
                 <h1 className='doing'>what I do?</h1>
                 <h4>FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK</h4>
                 <div className="col">
@@ -44,11 +44,22 @@ export default function File() {
                     <img className="icon" src="https://img.icons8.com/color/2x/sass.png" alt="sass" />
                     <img className="icon" src="https://img.icons8.com/color/2x/tailwind_css.png" alt="tailwind" />
                 </div>
-                </div>
+               
             
                 </div>
                 <div className="clearfix"></div>
 
+            
+                <h1 className='doing'>Education</h1>
+                <div className="col">
+                    <h3>RBK Rebootkamp</h3>
+                    <h4>Full Stack JS Developer
+                    5 MONTHS
+                    Rebootkamp powered by HACK REACTOR
+                    Fundamental of Javascript
+                    Frameworks, Libraries, Agile Methodology</h4>
+                </div>
+                <div className="clearfix"></div>
                 </div>
             
 
