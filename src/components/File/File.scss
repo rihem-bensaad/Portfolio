@@ -17,7 +17,8 @@
     float: left;
     width: 50%;
     font-family: 'Raleway', sans-serif;
-    text-align: center;
+    text-align: center ;
+ 
   }
   
  
@@ -51,4 +52,11 @@
   }
   .icon{
   width: 5%;
+  }
+
+  //alert
+  .alert {
+    padding: 20px;
+    background-color: #ae9eb9;
+    color: white;
   }

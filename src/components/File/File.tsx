@@ -5,17 +5,17 @@ export default function File() {
             <div className="supporting">
             <div className="container">
                 <div className="col">
-                <h2>Hello everyone I'm Rihem BEN SAAD</h2>
-                <p>Hello world! I am Rihem BEN SAAD from Tunisia and I am currently Graduated as a Full stack JS developer from RBK, a Coding RebootKamp powered by Hack Reactor. I create content in design and development using different libraries and frameworks such as React.js, Angular, Node.js, etc..
-                I have a background in microcomputer system maintenance so I enjoy repairing computers. When I am not developing, you can find me learning things on YouTube, watching series, practice sports. 
-                </p>
+                    <h2>Hello everyone I'm Rihem BEN SAAD</h2>
+                    <p>Hello world! I am Rihem BEN SAAD from Tunisia and I am currently Graduated as a Full stack JS developer from RBK, a Coding RebootKamp powered by Hack Reactor. I create content in design and development using different libraries and frameworks such as React.js, Angular, Node.js, etc..
+                    I have a background in microcomputer system maintenance so I enjoy repairing computers. When I am not developing, you can find me learning things on YouTube, watching series, practice sports. 
+                    </p>
                 </div>
 
                 <div className="col">
                     <img src="https://pps.whatsapp.net/v/t61.24694-24/300999958_539045894642503_935984859955004619_n.jpg?ccb=11-4&oh=01_AdQweyJhy0greyy7Lk-VyrP-1SfYNCvp9FZNyiz16jPt7w&oe=63694FCE" alt="" />
                 </div>
                 
-            </div>
+            
             <div className="clearfix"></div>
             <div>
             
@@ -51,15 +51,21 @@ export default function File() {
 
             
                 <h1 className='doing'>Education</h1>
-                <div className="col">
+                
+                <div className="col alert">
                     <h3>RBK Rebootkamp</h3>
-                    <h4>Full Stack JS Developer
-                    5 MONTHS
-                    Rebootkamp powered by HACK REACTOR
-                    Fundamental of Javascript
-                    Frameworks, Libraries, Agile Methodology</h4>
+                    <h4>Full Stack JS Developer</h4>
+                    <h4>5 MONTHS</h4>
+                    <h4> Rebootkamp powered by HACK REACTOR</h4>
+                   
+                        <li> Fundamental of Javascript</li>
+                        <li>Frameworks, Libraries, Agile Methodology</li>
+                    
+                   
                 </div>
+                
                 <div className="clearfix"></div>
+                </div>
                 </div>
             
 
