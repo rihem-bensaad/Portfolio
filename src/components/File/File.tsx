@@ -54,9 +54,7 @@ export default function File() {
                     <h3>Sectoral Training Center in Electronics of Sousse</h3>
                     <h4>Micro computer system maintenance technician</h4>
                     <h4>2 Years</h4>
-                    <h4> </h4>
-                        <li> Fundamental of Javascript</li>
-                        <li>Frameworks, Libraries, Agile Methodology</li>
+                    <h4> The Ministry of Vocational Training and Employment</h4>
                 </div>
                 
                 <div className="col">
