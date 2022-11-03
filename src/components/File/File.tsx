@@ -50,7 +50,7 @@ export default function File() {
                 <div className="clearfix"></div>
 
                 <h1 className='doing'>Education</h1>
-                <div className="col">
+                <div className="col al">
                     <h3>Sectoral Training Center in Electronics of Sousse</h3>
                     <h4>Micro computer system maintenance technician</h4>
                     <h4>2 Years</h4>
