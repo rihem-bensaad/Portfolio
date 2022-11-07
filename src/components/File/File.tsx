@@ -58,20 +58,16 @@ export default function File() {
                 </div>
                 
                 <div className="col">
-                <div className="col alert">
-                    <h3>RBK Rebootkamp</h3>
-                    <h4>Full Stack JS Developer</h4>
-                    <h4>5 MONTHS</h4>
-                    <h4> Rebootkamp powered by HACK REACTOR</h4>
-                   
+                    <div className="col alert">
+                        <h3>RBK Rebootkamp</h3>
+                        <h4>Full Stack JS Developer</h4>
+                        <h4>5 MONTHS</h4>
+                        <h4> Rebootkamp powered by HACK REACTOR</h4>
                         <li> Fundamental of Javascript</li>
                         <li>Frameworks, Libraries, Agile Methodology</li>
+                    </div>
                 </div>
-                    
-                </div>
-                
                 <div className="clearfix"></div>
-                
                 </div>
                 </div>
             
