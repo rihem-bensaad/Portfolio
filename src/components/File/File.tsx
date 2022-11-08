@@ -12,7 +12,7 @@ export default function File() {
                 </div>
 
                 <div className="col">
-                    <img src="https://pps.whatsapp.net/v/t61.24694-24/300999958_539045894642503_935984859955004619_n.jpg?ccb=11-4&oh=01_AdQweyJhy0greyy7Lk-VyrP-1SfYNCvp9FZNyiz16jPt7w&oe=63694FCE" alt="" />
+                    <img src="https://pps.whatsapp.net/v/t61.24694-24/300999958_539045894642503_935984859955004619_n.jpg?ccb=11-4&oh=01_AdSef0Y_IwWm0RVgG-UC9DRMRs3XfzITt_7KBI0nJNWNtw&oe=63767ECE" alt="" />
                 </div>
                 
             
@@ -68,6 +68,26 @@ export default function File() {
                     </div>
                 </div>
                 <div className="clearfix"></div>
+
+                <h1 className='doing'>Projects</h1>
+                <div className="col ">
+                    <h3>Sectoral Training Center in Electronics of Sousse</h3>
+                    <h4>Micro computer system maintenance technician</h4>
+                    <h4>2 Years</h4>
+                    <h4> The Ministry of Vocational Training and Employment</h4>
+                </div>
+                
+                <div className="col">
+                    <div className="col">
+                        <h3>RBK Rebootkamp</h3>
+                        <h4>Full Stack JS Developer</h4>
+                        <h4>5 MONTHS</h4>
+                        <h4> Rebootkamp powered by HACK REACTOR</h4>
+                        <li> Fundamental of Javascript</li>
+                        <li>Frameworks, Libraries, Agile Methodology</li>
+                    </div>
+                </div>
+                <div className="clearfix"></div> 
                 </div>
                 </div>
             
