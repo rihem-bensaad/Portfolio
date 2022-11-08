@@ -11,8 +11,10 @@ export default function File() {
                     </p>
                 </div>
 
-                <div className="col">
-                    <img src="https://pps.whatsapp.net/v/t61.24694-24/300999958_539045894642503_935984859955004619_n.jpg?ccb=11-4&oh=01_AdSef0Y_IwWm0RVgG-UC9DRMRs3XfzITt_7KBI0nJNWNtw&oe=63767ECE" alt="" />
+                <div className="col ">
+               
+                    <img  src="https://pps.whatsapp.net/v/t61.24694-24/300999958_539045894642503_935984859955004619_n.jpg?ccb=11-4&oh=01_AdSef0Y_IwWm0RVgG-UC9DRMRs3XfzITt_7KBI0nJNWNtw&oe=63767ECE"  alt=""  />
+                    
                 </div>
                 
             
@@ -24,25 +26,25 @@ export default function File() {
                 <div className="col">
                     <img src="https://scontent.ftun15-1.fna.fbcdn.net/v/t1.6435-9/205496888_3771509479740162_6481703703618261735_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=174925&_nc_ohc=sDiFxYWoE7EAX_QJemn&_nc_ht=scontent.ftun15-1.fna&oh=00_AfDU9cmdt0OjPZbb35twUtP1TnrTzMz5d0dQym8R7Ydyng&oe=63817378" alt="" />
                 </div>
-                <div className="col">  
-                    <img className="icon" src="https://img.icons8.com/fluency/344/html-5.png" alt="HTML" />
-                    <img className="icon" src="https://img.icons8.com/color/2x/css3.png" alt="CSS" />
-                    <img className="icon" src="https://img.icons8.com/color/2x/javascript.png" alt="JS" />
-                    <img className="icon" src="https://img.icons8.com/color/344/typescript.png" alt="TS" />
-                    <img className="icon" src="https://img.icons8.com/color/344/react-native.png" alt="react" />
-                    <img className="icon" src="https://img.icons8.com/fluency/344/angularjs.png" alt="angular" />
-                    <img className="icon" src="https://img.icons8.com/fluency/344/node-js.png" alt="node" />
-                    <img className="icon" src="https://img.icons8.com/fluency/344/laravel.png" alt="laravel" />
-                    <img className="icon" src="https://img.icons8.com/color/344/joomla.png" alt="joomla!" />
+                <div className="col ">  
+                    <img className="icon zoom" src="https://img.icons8.com/fluency/344/html-5.png" alt="HTML" />
+                    <img className="icon zoom" src="https://img.icons8.com/color/2x/css3.png" alt="CSS" />
+                    <img className="icon zoom" src="https://img.icons8.com/color/2x/javascript.png" alt="JS" />
+                    <img className="icon zoom" src="https://img.icons8.com/color/344/typescript.png" alt="TS" />
+                    <img className="icon zoom" src="https://img.icons8.com/color/344/react-native.png" alt="react" />
+                    <img className="icon zoom" src="https://img.icons8.com/fluency/344/angularjs.png" alt="angular" />
+                    <img className="icon zoom" src="https://img.icons8.com/fluency/344/node-js.png" alt="node" />
+                    <img className="icon zoom" src="https://img.icons8.com/fluency/344/laravel.png" alt="laravel" />
+                    <img className="icon zoom" src="https://img.icons8.com/color/344/joomla.png" alt="joomla!" />
                     <br />
-                    <img className="icon" src="https://img.icons8.com/color/2x/amazon-web-services.png" alt="AWS" />
-                    <img className="icon" src="https://img.icons8.com/fluency/344/mysql-logo.png" alt="sql" />
-                    <img className="icon" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" alt="mongodb" />
-                    <img className="icon" src="https://img.icons8.com/color/2x/npm.png" alt="npm" />
-                    <img className="icon" src="https://img.icons8.com/color/344/git.png" alt="git" />
-                    <img className="icon" src="https://img.icons8.com/color/344/bootstrap.png" alt="" />
-                    <img className="icon" src="https://img.icons8.com/color/2x/sass.png" alt="sass" />
-                    <img className="icon" src="https://img.icons8.com/color/2x/tailwind_css.png" alt="tailwind" />
+                    <img className="icon zoom" src="https://img.icons8.com/color/2x/amazon-web-services.png" alt="AWS" />
+                    <img className="icon zoom" src="https://img.icons8.com/fluency/344/mysql-logo.png" alt="sql" />
+                    <img className="icon zoom" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" alt="mongodb" />
+                    <img className="icon zoom" src="https://img.icons8.com/color/2x/npm.png" alt="npm" />
+                    <img className="icon zoom" src="https://img.icons8.com/color/344/git.png" alt="git" />
+                    <img className="icon zoom" src="https://img.icons8.com/color/344/bootstrap.png" alt="" />
+                    <img className="icon zoom" src="https://img.icons8.com/color/2x/sass.png" alt="sass" />
+                    <img className="icon zoom" src="https://img.icons8.com/color/2x/tailwind_css.png" alt="tailwind" />
                 </div>
                
             
@@ -71,21 +73,9 @@ export default function File() {
 
                 <h1 className='doing'>Projects</h1>
                 <div className="col ">
-                    <h3>Sectoral Training Center in Electronics of Sousse</h3>
-                    <h4>Micro computer system maintenance technician</h4>
-                    <h4>2 Years</h4>
-                    <h4> The Ministry of Vocational Training and Employment</h4>
                 </div>
                 
                 <div className="col">
-                    <div className="col">
-                        <h3>RBK Rebootkamp</h3>
-                        <h4>Full Stack JS Developer</h4>
-                        <h4>5 MONTHS</h4>
-                        <h4> Rebootkamp powered by HACK REACTOR</h4>
-                        <li> Fundamental of Javascript</li>
-                        <li>Frameworks, Libraries, Agile Methodology</li>
-                    </div>
                 </div>
                 <div className="clearfix"></div> 
                 </div>
