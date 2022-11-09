@@ -11,19 +11,16 @@ export default function File() {
                     </p>
                 </div>
 
-                <div className="col ">
-               
+                <div className="col pic">
                     <img  src="https://pps.whatsapp.net/v/t61.24694-24/300999958_539045894642503_935984859955004619_n.jpg?ccb=11-4&oh=01_AdSef0Y_IwWm0RVgG-UC9DRMRs3XfzITt_7KBI0nJNWNtw&oe=63767ECE"  alt=""  />
-                    
                 </div>
                 
             
             <div className="clearfix"></div>
             <div>
-            
                 <h1 className='doing'>what I do?</h1>
                 <h4>FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK</h4>
-                <div className="col">
+                <div className="col pic">
                     <img src="https://scontent.ftun15-1.fna.fbcdn.net/v/t1.6435-9/205496888_3771509479740162_6481703703618261735_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=174925&_nc_ohc=sDiFxYWoE7EAX_QJemn&_nc_ht=scontent.ftun15-1.fna&oh=00_AfDU9cmdt0OjPZbb35twUtP1TnrTzMz5d0dQym8R7Ydyng&oe=63817378" alt="" />
                 </div>
                 <div className="col ">  
