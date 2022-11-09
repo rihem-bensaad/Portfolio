@@ -11,7 +11,7 @@ export default function File() {
                     </p>
                 </div>
 
-                <div className="col pic">
+                <div className="col pic1">
                     <img  src="https://pps.whatsapp.net/v/t61.24694-24/300999958_539045894642503_935984859955004619_n.jpg?ccb=11-4&oh=01_AdSef0Y_IwWm0RVgG-UC9DRMRs3XfzITt_7KBI0nJNWNtw&oe=63767ECE"  alt=""  />
                 </div>
                 
@@ -69,10 +69,13 @@ export default function File() {
                 <div className="clearfix"></div>
 
                 <h1 className='doing'>Projects</h1>
+                <div>
                 <div className="col ">
+
                 </div>
                 
                 <div className="col">
+                </div>
                 </div>
                 <div className="clearfix"></div> 
                 </div>
