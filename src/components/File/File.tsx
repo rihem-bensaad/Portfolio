@@ -73,7 +73,7 @@ export default function File() {
                     <div className="col">
                         <div className="col firstP">
                             <h3 className='titleP'>Catwalk</h3>
-                            <h5>Team Project • Scrum Master • Product detail page of Amazon • Allows users to see the details of the product, overview service, related product service, Questions and answers service, Rating and reviews service. • Tasks: Created the Questions and Answers service • Technologies:Agile methodology, Service Oriented Architecture React, Redux, Hooks, Sementic ui, Axios, Bootstrap, cloudinary, Node.js, Express, Proxy, HACK REACTOR API, Digital oceans, Git Workflow</h5>
+                            <h5>Team Project • Scrum Master • Product detail page of Amazon • Allows users to see the details of the product, overview service, related product service, Questions and answers service, Rating and reviews service. • Tasks: Created the Questions and Answers service • Technologies: Agile methodology, Service Oriented Architecture React, Sementic ui, Axios, Bootstrap, cloudinary, Node.js, Express, Proxy, HACK REACTOR API, Digital oceans, Git Workflow</h5>
                        </div>
                     </div>
                     <div className="col">
