@@ -69,14 +69,20 @@ export default function File() {
                 <div className="clearfix"></div>
 
                 <h1 className='doing'>Projects</h1>
-                <div>
-                <div className="col ">
-
-                </div>
                 
-                <div className="col">
-                </div>
-                </div>
+                    <div className="col">
+                        <div className="col firstP">
+                            <h3>catwalk</h3>
+
+                        </div>
+                    </div>
+                    <div className="col">
+
+                    <div className="col scP">
+                        <h3>catwalk</h3>
+                    </div>
+                    </div>
+                
                 <div className="clearfix"></div> 
                 </div>
                 </div>
