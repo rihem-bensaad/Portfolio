@@ -17,7 +17,26 @@ export default function File() {
                 
             
             <div className="clearfix"></div>
+                <h1 className='doing'>Education</h1>
+                <div className="col al">
+                    <h3>Sectoral Training Center in Electronics of Sousse</h3>
+                    <h4>Micro computer system maintenance technician</h4>
+                    <h4>2 Years</h4>
+                    <h4> The Ministry of Vocational Training and Employment</h4>
+                </div>
+                
+                <div className="col">
+                    <div className="col alert">
+                        <h3>RBK Rebootkamp</h3>
+                        <h4>Full Stack JS Developer</h4>
+                        <h4>5 MONTHS</h4>
+                        <h4> Rebootkamp powered by HACK REACTOR</h4>
+                        <li> Fundamental of Javascript</li>
+                        <li>Frameworks, Libraries, Agile Methodology</li>
+                    </div>
+                </div>
             <div>
+                <div className="clearfix"></div>
                 <h1 className='doing'>what I do?</h1>
                 <h4>FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK</h4>
                 <div className="col pic">
@@ -48,38 +67,20 @@ export default function File() {
                 </div>
                 <div className="clearfix"></div>
 
-                <h1 className='doing'>Education</h1>
-                <div className="col al">
-                    <h3>Sectoral Training Center in Electronics of Sousse</h3>
-                    <h4>Micro computer system maintenance technician</h4>
-                    <h4>2 Years</h4>
-                    <h4> The Ministry of Vocational Training and Employment</h4>
-                </div>
-                
-                <div className="col">
-                    <div className="col alert">
-                        <h3>RBK Rebootkamp</h3>
-                        <h4>Full Stack JS Developer</h4>
-                        <h4>5 MONTHS</h4>
-                        <h4> Rebootkamp powered by HACK REACTOR</h4>
-                        <li> Fundamental of Javascript</li>
-                        <li>Frameworks, Libraries, Agile Methodology</li>
-                    </div>
-                </div>
-                <div className="clearfix"></div>
 
                 <h1 className='doing'>Projects</h1>
                 
                     <div className="col">
                         <div className="col firstP">
-                            <h3>catwalk</h3>
-
-                        </div>
+                            <h3 className='titleP'>Catwalk</h3>
+                            <h5>Team Project • Scrum Master • Product detail page of Amazon • Allows users to see the details of the product, overview service, related product service, Questions and answers service, Rating and reviews service. • Tasks: Created the Questions and Answers service • Technologies:Agile methodology, Service Oriented Architecture React, Redux, Hooks, Sementic ui, Axios, Bootstrap, cloudinary, Node.js, Express, Proxy, HACK REACTOR API, Digital oceans, Git Workflow</h5>
+                       </div>
                     </div>
                     <div className="col">
 
                     <div className="col scP">
-                        <h3>catwalk</h3>
+                        <h3 className='titleP'>catwalk</h3>
+                        
                     </div>
                     </div>
                 
