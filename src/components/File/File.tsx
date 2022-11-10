@@ -73,18 +73,29 @@ export default function File() {
                     <div className="col">
                         <div className="col firstP">
                             <h3 className='titleP'>Catwalk</h3>
-                            <h5>Team Project • Scrum Master • Product detail page of Amazon • Allows users to see the details of the product, overview service, related product service, Questions and answers service, Rating and reviews service. • Tasks: Created the Questions and Answers service • Technologies: Agile methodology, Service Oriented Architecture React, Sementic ui, Axios, Bootstrap, cloudinary, Node.js, Express, Proxy, HACK REACTOR API, Digital oceans, Git Workflow</h5>
+                            <h5>Team Project • Developer • Product detail page of Amazon • Allows users to see the details of the product, overview service, related product service, Questions and answers service, Rating and reviews service. • Tasks: Created the Questions and Answers service • Technologies: Agile methodology, Service Oriented Architecture React, Sementic ui, Axios, Bootstrap, cloudinary, Node.js, Express, Proxy, HACK REACTOR API, Digital oceans, Git Workflow</h5>
                        </div>
                     </div>
                     <div className="col">
 
                     <div className="col scP">
-                        <h3 className='titleP'>catwalk</h3>
-                        
+                        <h3 className='titleP'>GramPara</h3>
+                        <h5>Team Project •Scrum Master
+                            •Tasks: Create HTTP Methods for RESTful Services, Details page,
+                            • Technologies: Agile methodology, Service Oriented Architecture.
+                            Angular, TypeScript, Semantic ui, Bootstrap, Node.js, Express.js, Digital
+                            oceans, Git Workflow</h5>
+                    </div>
+                    <div className="col">
+                        <div className="col thP">
+                            <h3 className='titleP'>Catwalk</h3>
+                            <h5>Team Project • Developer • Product detail page of Amazon • Allows users to see the details of the product, overview service, related product service, Questions and answers service, Rating and reviews service. • Tasks: Created the Questions and Answers service • Technologies: Agile methodology, Service Oriented Architecture React, Sementic ui, Axios, Bootstrap, cloudinary, Node.js, Express, Proxy, HACK REACTOR API, Digital oceans, Git Workflow</h5>
+                       </div>
                     </div>
                     </div>
                 
                 <div className="clearfix"></div> 
+                
                 </div>
                 </div>
             
