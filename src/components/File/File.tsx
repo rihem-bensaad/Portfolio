@@ -13,7 +13,6 @@ export default function File() {
                 <div className="col pic1">
                     <img  src="https://pps.whatsapp.net/v/t61.24694-24/300999958_539045894642503_935984859955004619_n.jpg?ccb=11-4&oh=01_AdSef0Y_IwWm0RVgG-UC9DRMRs3XfzITt_7KBI0nJNWNtw&oe=63767ECE"  alt=""  />
                 </div>
-            <div className="clearfix"></div>
                 <h1 className='doing'>Education</h1>
                 <div className="col al">
                     <h3>Sectoral Training Center in Electronics of Sousse</h3>
@@ -86,7 +85,15 @@ export default function File() {
                        </div>
                     </div>
                 <div className="clearfix"></div> 
+               
+                <h1 className='doing'>Experience</h1>
+                <div className="col ">
                 </div>
+                <div className="col">
+                    
+                </div>
+                </div>
+                <div className="clearfix"></div> 
                 </div>
     )
 }
