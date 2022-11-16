@@ -88,6 +88,7 @@ export default function File() {
                
                 <h1 className='doing'>Experience</h1>
                 <div className="col ">
+                <p className="outset">An outset border.</p>
                 </div>
                 <div className="col">
                     
