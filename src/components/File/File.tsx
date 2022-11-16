@@ -97,7 +97,13 @@ export default function File() {
                     </div>
                 </div>
                 <div className="col">
-                    
+                <div className="outset2">
+                        <h4>Front-End Developer</h4>
+                        <h5>Internship</h5>
+                        <h5>Thundr Tunis</h5>
+                        <h5>From June 2021 to July 2021</h5>
+                        <h5>Tasks: Create dashboard, weather report, login & registration page</h5>
+                    </div>
                 </div>
                 </div>
                 <div className="clearfix"></div> 
