@@ -109,11 +109,11 @@ export default function File() {
                 </div>
                 <div className="col ">
                     <div className="outset">
-                        <h4>Front-End Developer</h4>
+                        <h4>Software Web Developer</h4>
                         <h5>Internship</h5>
-                        <h5>Thundr Tunis</h5>
-                        <h5>From June 2021 to July 2021</h5>
-                        <h5>Tasks: Create dashboard, weather report, login & registration page</h5>
+                        <h5>Global Service Informatique (GSI) Monastir</h5>
+                        <h5>From December 2021 to January 2022</h5>
+                        <h5>Tasks: Lead the trainees, Municipal website development Example: <a href="http://www.commune-bouhjar.gov.tn/fr/?start=6" target="_blank">www.commune-bouhjar.gov.tn</a> <a href="http://www.communebradaa.gov.tn/?fbclid=IwAR0soMAA19U7MrFbzZy9YwR74T9wpxVmv3uCKrsKGrEUIo4TEFa0ewBcZaI" target="_blank">www.communebradaa.gov.tn</a></h5>
                     </div>
                 </div>
                 <div className="col">
