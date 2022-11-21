@@ -37,7 +37,7 @@ export default function File() {
                 <div className="col pic">
                     <img src="https://scontent.ftun15-1.fna.fbcdn.net/v/t1.6435-9/205496888_3771509479740162_6481703703618261735_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=174925&_nc_ohc=sDiFxYWoE7EAX_QJemn&_nc_ht=scontent.ftun15-1.fna&oh=00_AfDU9cmdt0OjPZbb35twUtP1TnrTzMz5d0dQym8R7Ydyng&oe=63817378" alt="" />
                 </div>
-                <div className="col ">  
+                <div className="col icons">  
                     <img className="icon zoom" src="https://img.icons8.com/fluency/344/html-5.png" alt="HTML" />
                     <img className="icon zoom" src="https://img.icons8.com/color/2x/css3.png" alt="CSS" />
                     <img className="icon zoom" src="https://img.icons8.com/color/2x/javascript.png" alt="JS" />
