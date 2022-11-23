@@ -11,7 +11,7 @@ export default function File() {
                     </p>
                 </div>
                 <div className="col pic1">
-                    <img  src="https://pps.whatsapp.net/v/t61.24694-24/300999958_539045894642503_935984859955004619_n.jpg?ccb=11-4&oh=01_AdSef0Y_IwWm0RVgG-UC9DRMRs3XfzITt_7KBI0nJNWNtw&oe=63767ECE"  alt=""  />
+                    <img  src="https://scontent.ftun16-1.fna.fbcdn.net/v/t1.6435-9/57154317_2923625654528553_3650010216281407488_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=174925&_nc_ohc=XpYXd7WueVQAX9U32L_&_nc_ht=scontent.ftun16-1.fna&oh=00_AfCyAtEoa4LXQHqKGRa030zDyM5BOJbYPTkpvwe3xkIjzA&oe=63A54D3F"  alt=""  />
                 </div>
                 <h1 className='doing'>Education</h1>
                 <div className="col al">
