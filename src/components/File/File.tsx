@@ -103,7 +103,7 @@ export default function File() {
                         <h5>AnytimeAnywhere Sousse</h5>
                         <h5>From August 2021 to November 2021</h5>
                         <h5>Tasks: Test website, Translate page, Update page
-                            Example: <a href="https://www.anytime4anywhere.com/" target="_blank">www.anytime4anywhere.com</a></h5>
+                            Example: <a className="links" href="https://www.anytime4anywhere.com/" target="_blank">www.anytime4anywhere.com</a></h5>
                     </div>
                 </div>
                 </div>
