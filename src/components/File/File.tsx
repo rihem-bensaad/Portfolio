@@ -115,9 +115,9 @@ export default function File() {
                         <h5>From December 2021 to January 2022</h5>
                         <h5>Tasks: Lead the trainees, Municipal website development. Example: 
                             <br/>
-                            <a href="http://www.commune-bouhjar.gov.tn/fr/?start=6" target="_blank">www.commune-bouhjar.gov.tn</a>
+                            <a className="links" href="http://www.commune-bouhjar.gov.tn/fr/?start=6" target="_blank">www.commune-bouhjar.gov.tn</a>
                             <br/>
-                            <a href="http://www.communebradaa.gov.tn/?fbclid=IwAR0soMAA19U7MrFbzZy9YwR74T9wpxVmv3uCKrsKGrEUIo4TEFa0ewBcZaI" target="_blank">www.communebradaa.gov.tn
+                            <a className="links" href="http://www.communebradaa.gov.tn/?fbclid=IwAR0soMAA19U7MrFbzZy9YwR74T9wpxVmv3uCKrsKGrEUIo4TEFa0ewBcZaI" target="_blank">www.communebradaa.gov.tn
                             </a>
                          </h5>
                     </div>
@@ -129,7 +129,7 @@ export default function File() {
                         <h5>TMS (Technique Mécanographique Service) Sousse</h5>
                         <h5>From August 2022 to October 2022</h5>
                         <h5>Tasks: Create SQL query, Home page, Article page, Cart page.
-                            Example: <a href="http://www.ayemzmen.com/" target="_blank">www.ayemzmen.com</a></h5>
+                            Example: <a className="links" href="http://www.ayemzmen.com/" target="_blank">www.ayemzmen.com</a></h5>
                     </div>
                 </div>
                 <div className="clearfix"></div> 
