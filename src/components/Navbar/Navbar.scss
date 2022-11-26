@@ -1,7 +1,7 @@
 $content-width: 1000px;
 $breakpoint: 799px;
 $nav-height: 70px;
-$nav-background: #fff;
+$nav-background: rgb(235, 227, 237);
 $nav-font-color: #0c0c0c;
 $link-hover-color: #b087b1;
 
@@ -28,8 +28,6 @@ body{
   line-height: $nav-height;
   text-transform: none;
   font-size: 1.4em;
-  
-
   a,
   a:visited {
     color: $nav-font-color;
@@ -182,6 +180,6 @@ nav {
 }
 
 .name:hover {
-  font-size: 150%
+  font-size: 130%;
 }
 
