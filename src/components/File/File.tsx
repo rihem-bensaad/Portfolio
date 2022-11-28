@@ -7,7 +7,7 @@ export default function File() {
                 <div className="col">
                     <h2>Hello everyone I'm Rihem BEN SAAD</h2>
                     <p>Hello world! I am Rihem BEN SAAD from Tunisia and I am currently Graduated as a Full stack JS developer from RBK, a Coding RebootKamp powered by Hack Reactor. I create content in design and development using different libraries and frameworks such as React.js, Angular, Node.js, etc..
-                    I have a background in microcomputer system maintenance so I enjoy repairing computers. When I am not developing, you can find me learning things on YouTube, watching series, practice sports. 
+                    I have a background in microcomputer system mantenance so I enjoy repairing computers and when I am not developing, you can find me learning things on YouTube, watching series, practice sports. 
                     </p>
                 </div>
                 <div className="col pic1">
@@ -18,7 +18,6 @@ export default function File() {
                     <h3>Sectoral Training Center in Electronics of Sousse</h3>
                     <h4>Micro computer system maintenance technician</h4>
                     <h4>2 Years</h4>
-                    <h4> The Ministry of Vocational Training and Employment</h4>
                 </div>
                 <div className="col">
                     <div className="col alert">
