@@ -58,12 +58,5 @@
   padding: 10px 15px;
   margin-top: 7px;
 }
-@media only screen and (min-width: 1024px) {
-}
 
-@media only screen and (min-width: 1024px) {
-  .container header .header-nav-area #nav_container  {
-    display:flex;
-  }
-} 
 
