@@ -6,13 +6,14 @@ import File from './components/File/File';
 
 
 
-const App = ()=>(
-
+function App() {
+  return (
     <div className="App">
       <Navbar />
       <File />
       <Footer />
     </div>
+  );
+}
 
-)
 export default App;
